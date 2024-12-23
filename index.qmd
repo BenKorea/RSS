@@ -40,4 +40,4 @@ Recommended nomenclautue for Project directory name
 
 
 ### 목적
-- QUarto Website 프로젝트를 생성하고 Bootstrap tooltip 및 Utterance 기능구현을 위한 설정, Render 기능을 위한 기본적인 R 패키지 설치까지를 template화 함.
+- QUarto Website 프로젝트를 생성하고 Bootstrap tooltip 및 Utterance 기능구현을 위한 설정을 template화 함.
